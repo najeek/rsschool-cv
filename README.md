@@ -1,2 +1,2 @@
 # rsschool-cv
-RS-school cv-task
+[cv](https://your-github-account.github.io/rsschool-cv/cv)
