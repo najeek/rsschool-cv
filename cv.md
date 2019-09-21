@@ -1,6 +1,5 @@
 # Najmiddin Mirzoboev 
 
-
 ### Several ways to find me:
 * My Email: najmiddin4242@gmail.com
 * My phone number: +99897-390-42-42
@@ -135,7 +134,7 @@ You can use it [here](https://weather-4242.firebaseapp.com/)
 * Certificate of successful completion of **Full JavaScript Course** *Jonas Schmedtman*
 
 ### My english level:
-*IELTS score 6.5
+* IELTS score 6.5
 
 
 
