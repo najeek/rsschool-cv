@@ -1,2 +1,2 @@
 # rsschool-cv
-## [cv](https://your-github-account.github.io/rsschool-cv/cv)
+## [cv](https://najeek.github.io/rsschool-cv/cv)
